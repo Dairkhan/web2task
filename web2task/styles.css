@@ -1,15 +1,15 @@
-/* General Body Styling */
+
 body {
     font-family: Arial, sans-serif;
-    background-color: #1a1a1a; /* Dark background for football theme */
-    color: #fff; /* White text for contrast */
+    background-color: #1a1a1a;
+    color: #fff;
     margin: 0;
     padding: 0;
 }
 
-/* Header Styling */
+
 #header {
-    background-color: #003366; /* Team color - dark blue */
+    background-color: #003366;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -37,11 +37,10 @@ body {
     background-color: #005bb5;
 }
 
-/* Hero Section for Home Page */
 .hero-section {
     text-align: center;
     padding: 50px 20px;
-    background-image: url('football-field.jpg'); /* Background image of football field */
+    background-image: url('football-field.jpg');
     background-size: cover;
     background-position: center;
     color: #ffcc00;
@@ -58,7 +57,7 @@ body {
 .section-heading {
     font-size: 2rem;
     margin-bottom: 15px;
-    color: #ffcc00; /* Golden text */
+    color: #ffcc00;
 }
 
 .paragraph-text {
@@ -67,7 +66,7 @@ body {
     margin: 0 auto;
 }
 
-/* About Page Styling */
+
 .about-section {
     background-color: #222;
     color: #fff;
@@ -88,7 +87,6 @@ body {
     line-height: 1.8;
 }
 
-/* Contacts Page Styling */
 .contact-section {
     background-color: #003366;
     color: #fff;
@@ -117,7 +115,7 @@ body {
     text-decoration: underline;
 }
 
-/* Table Styling */
+
 table {
     width: 80%;
     margin: 30px auto;
@@ -138,7 +136,7 @@ th {
     font-weight: bold;
 }
 
-/* Form Styling */
+
 form {
     max-width: 500px;
     margin: 30px auto;
@@ -165,7 +163,7 @@ form input[type="submit"]:hover {
     background-color: #e6b800;
 }
 
-/* Footer Styling */
+
 #footer {
     background-color: #003366;
     padding: 20px;
@@ -180,7 +178,7 @@ form input[type="submit"]:hover {
     font-size: 1rem;
 }
 
-/* Links Styling */
+
 a {
     color: #ffcc00;
     text-decoration: none;
@@ -190,7 +188,6 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Responsive Design */
 @media screen and (max-width: 768px) {
     .hero-section, .about-section, .contact-section {
         padding: 30px 10px;
@@ -202,35 +199,34 @@ a:hover {
 }
 
 
-/* General Body Styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #1a1a1a; /* Темный фон для футбольной тематики */
-    color: #fff; /* Белый текст для контраста */
+    background-color: #1a1a1a;
+    color: #fff;
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    text-align: center; /* Центрирует содержимое страницы */
+    text-align: center;
 }
 
-/* Header Styling */
+
 h1 {
     font-size: 2.5rem;
-    color: #ffcc00; /* Золотой цвет для заголовка */
+    color: #ffcc00;
     margin-bottom: 20px;
 }
 
-/* Center Image */
+
 img {
     display: block;
     margin: 0 auto;
-    width: 150px; /* Размер изображения */
+    width: 150px;
     height: auto;
-    border-radius: 50%; /* Делает изображение круглым */
+    border-radius: 50%;
     margin-bottom: 20px;
 }
 
-/* Table Styling */
+
 table {
     width: 80%;
     margin: 30px auto;
@@ -245,12 +241,12 @@ th, td {
 }
 
 th {
-    background-color: #ffcc00; /* Золотой цвет для заголовков таблицы */
+    background-color: #ffcc00;
     color: #000;
     font-weight: bold;
 }
 
-/* List Styling */
+
 ul {
     list-style-type: none;
     padding: 0;
@@ -270,7 +266,6 @@ ul li a:hover {
     text-decoration: underline;
 }
 
-/* Form Styling */
 form {
     margin: 20px auto;
     width: 300px;
@@ -300,7 +295,6 @@ form input[type="submit"]:hover {
     background-color: #e6b800;
 }
 
-/* Footer Link Styling */
 a {
     color: #ffcc00;
     text-decoration: none;
@@ -313,7 +307,6 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Responsive Design */
 @media screen and (max-width: 768px) {
     table {
         width: 95%;
